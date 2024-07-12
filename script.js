@@ -4,7 +4,7 @@ var __webpack_exports__ = {};
   \**********************/
   try{
 //__webpack_require__(/*! fastestsmallesttextencoderdecoder */ "./node_modules/fastestsmallesttextencoderdecoder/EncoderDecoderTogether.min.js");
-document.body.innerHTML = "test2 ";
+document.body.innerHTML = "test2 3";
 
   }
   catch(e)
@@ -12,4 +12,4 @@ document.body.innerHTML = "test2 ";
 document.body.innerHTML = "e "+e.toString();
 
   }
-document.body.innerHTML += "test3 ";
+document.body.innerHTML += "test3 5";
