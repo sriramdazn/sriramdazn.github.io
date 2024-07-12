@@ -1,4 +1,4 @@
-(function () => {
+(function () {
 /******/
 var __webpack_exports__ = {};
 /*!**********************!*\
@@ -16,4 +16,4 @@ document.body.innerHTML = "e "+e.toString();
   }
 document.body.innerHTML += "test3 ";
 
-})();
+})()
