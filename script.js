@@ -1954,8 +1954,7 @@ __webpack_require__(/*! es6-promise/auto */ "./node_modules/es6-promise/auto.js"
 __webpack_require__(/*! whatwg-fetch */ "./node_modules/whatwg-fetch/fetch.js");
 document.body.innerHTML = "test 2";
 try {
-  //require("@featurevisor/sdk");
-  test().tdd = 3;
+  require("@featurevisor/sdk");
 } catch (e) {
   document.body.innerHTML = "test 3";
 }
