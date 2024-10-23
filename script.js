@@ -1,3 +1,4 @@
 
-document.body.innerHTML="test 2";
-
+document.addEventListener("DOMContentLoaded", function() {
+  document.body.innerHTML = "test 2";
+});
