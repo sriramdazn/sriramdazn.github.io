@@ -1,1 +1,7 @@
-document.getElementById("app").innerHTML = "<h1>Hello, World!</h1><p>This is a new element inside #app</p>";
+document.body.innerHTML="test 2";
+try {
+  require("@featurevisor/sdk");
+} catch (e) {
+  document.body.innerHTML = "test 3";
+}
+;
